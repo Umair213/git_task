@@ -16,6 +16,10 @@ This is change in master
 
 
 
+This is change in A
+
+
+
 
 This is change in A
 
@@ -28,4 +32,8 @@ This is change in A
 
 
 This is change in branch B
->>>>>>> B
+
+
+This line is written in A and will be commited in B by stash
+
+
