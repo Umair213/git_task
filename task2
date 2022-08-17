@@ -7,6 +7,10 @@ This is branch B
 
 
 
+This is change in A
+
+
+
 
 
 
@@ -18,3 +22,6 @@ This is branch B
 
 
 This is change in branch B
+
+This line is written in A and will be commited in B by stash
+
