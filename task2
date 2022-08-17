@@ -5,6 +5,7 @@ This is in Branch A
 
 This is branch B
 
+
 This is change in master
 
 
@@ -13,4 +14,18 @@ This is change in master
 
 
 
+
+
+
 This is change in A
+
+
+
+
+
+
+
+
+
+This is change in branch B
+>>>>>>> B
